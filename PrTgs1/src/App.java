@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class App {
     public static void main(String[] args) throws Exception {
         System.out.println("===Tugas PR PBO===");
-        System.out.println("M.Rafi Cahyaputra/192410101029");
+        System.out.println("Muhammad Rafi Cahyaputra/192410101029");
 
         Scanner inputSoal = new Scanner(System.in);
         System.out.print("masukkan no soal 1-4 = ");
